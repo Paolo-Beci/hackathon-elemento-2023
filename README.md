@@ -4,23 +4,7 @@
 
 Develop something (script, npm module, python package, docker container, C++ executable) able to call an API and made a request
 
-# Preparation
-
-- [ ] [Create an account on Elemento](https://www.elemento.cloud/forms/sign-in)
-- [ ] Install ElectrOS [https://www.elemento.cloud/products/electros](https://www.elemento.cloud/products/electros)
-- [ ] Install [ElectrOS CLI](https://pypi.org/project/elemento-cli)
-- [ ] Launch the daemons and verify that ElectrOS is running properly
-
-# Tracks
-
-## IoT track
-
-Deploy a VM **using Elemento technology** and your **voice**. Deliver a code able to call a REST API as written in the specification. The code should be triggered by voice and managed through Elemento daemons.
-
-- Google
-- Alexa
-- Cortana
-- Siri
+# Track
 
 ## AI track
 
@@ -28,10 +12,11 @@ Deploy a VM **using Elemento technology** and your **voice**. Deliver a code abl
 - train a model to create [custom configs](https://github.com/Elemento-Modular-Cloud/electros)
 - train a model to infer configs from Software specs found on the internet
 
-## LLM track
-
-- train a llm to create and manage VMs using elemento
-
+## Presentation
+![Elemento_page-0003](https://github.com/Paolo-Beci/NASA-Space-Apps-2023/assets/71789321/d8ca3235-a016-4864-a5c0-7d91c4b3020e)
+![Elemento_page-0004](https://github.com/Paolo-Beci/NASA-Space-Apps-2023/assets/71789321/81d3c55b-ad28-448d-8c9d-9c5872ded70c)
+![Elemento_page-0005](https://github.com/Paolo-Beci/NASA-Space-Apps-2023/assets/71789321/04d1dcb5-6b82-4537-80d9-72de4ede80ba)
+![Elemento_page-0006](https://github.com/Paolo-Beci/NASA-Space-Apps-2023/assets/71789321/a0a55f09-ed98-4081-9598-ea3a15d4a199)
 
 ## API
 
@@ -88,40 +73,6 @@ Accept: application/json
   "local_index": "ffffffff-fffff-ffff-ffff-ffffffffffff"
 }
 ```
-
-# Prizes
-1. Woman in NASA lego set
-2. Galileo lego set 
-3. Space Shuttle lego set
-
-## penalties
-- crash the WiFi
-- deliver a solution written in Flutter
-- ask to chatGPT or any LLM
-- ask on public forums
-- copy code from other teams
-- use blockchain in your code
-
-## Spcial prizes
-
-- Team that uses more data
-- Team that uses more compute power
-- Team with the most secure solution
-- Team with more cables on table
-- Team with the more efficient solution
-- Team with more yellow accessories
-- Team who delivered a solution written in C++
-- Team which used less energy during the day
-- Team which uses more AI
-- Team whose presentation has best analyses
-
-
-### Scores
-
-https://keepthescore.com/board/gxkysmbpwksle/
-
-Vote https://elemento.typeform.com/to/b98eqeHS?typeform-source=admin.typeform.com
-
 
 # Deliver
 Commmit your code to [Elemento-Modular-Cloud/hackathon2023](https://github.com/Elemento-Modular-Cloud/hackathon2023)
