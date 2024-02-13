@@ -2,12 +2,7 @@
 
 # Aim of the hackaton
 
-Develop something (script, npm module, python package, docker container, C++ executable) able to call an API and made a request
-
-# Track
-
-## AI track
-
+Develop a system (script, npm module, python package, docker container, C++ executable) able to call an API and make a request.
 - train a model to create new mesOS translators
 - train a model to create [custom configs](https://github.com/Elemento-Modular-Cloud/electros)
 - train a model to infer configs from Software specs found on the internet
